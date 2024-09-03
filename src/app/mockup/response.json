@@ -1,0 +1,26 @@
+[
+  {
+      "llave": "ortegacarom@outlook.com",
+      "opcionesContacto": {
+          "aplicacion": false,
+          "correo_electronico": false
+      },
+      "fechaCreacion": "2024-04-10 17:55:07"
+  },
+  {
+    "llave": "test@outlook.com",
+    "opcionesContacto": {
+        "aplicacion": false,
+        "correo_electronico": false
+    },
+    "fechaCreacion": "2024-05-10 17:55:07"
+  },
+  {
+    "llave": "test2@outlook.com",
+    "opcionesContacto": {
+        "aplicacion": false,
+        "correo_electronico": true
+    },
+    "fechaCreacion": "2024-04-10 17:55:07"
+}
+]
